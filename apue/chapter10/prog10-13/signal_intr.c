@@ -1,4 +1,4 @@
-/* ³ÌĞò10-13 signal_intrº¯Êı */
+/* ç¨‹åº10-13 signal_intrå‡½æ•° */
 #include <signal.h>
 #include <unistd.h>
 #include <stdio.h>

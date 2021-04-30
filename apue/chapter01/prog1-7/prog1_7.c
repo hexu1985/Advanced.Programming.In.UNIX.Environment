@@ -1,4 +1,4 @@
-/* 程序1-7 打印用户ID和组ID */
+/* 绋嬪簭1-7 鎵撳嵃鐢ㄦ埛ID鍜岀粍ID */
 #include <unistd.h>
 #include <stdio.h>
 

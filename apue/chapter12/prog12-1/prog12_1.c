@@ -1,4 +1,4 @@
-/* 程序12-1 长的非阻塞写 */
+/* 绋嬪簭12-1 闀跨殑闈為樆濉炲啓 */
 #include <sys/types.h>
 #include <errno.h>
 #include <fcntl.h>

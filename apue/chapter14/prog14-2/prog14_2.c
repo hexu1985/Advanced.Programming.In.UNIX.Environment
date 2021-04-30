@@ -1,4 +1,4 @@
-/* 程序14-2 将文件复制到分页程序 */
+/* 绋嬪簭14-2 灏嗘枃浠跺鍒跺埌鍒嗛〉绋嬪簭 */
 #include <sys/wait.h>
 #include <unistd.h>
 #include <stdio.h>

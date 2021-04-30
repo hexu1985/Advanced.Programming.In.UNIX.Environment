@@ -1,4 +1,4 @@
-/* ³ÌĞò14-5 popenºÍpcloseº¯Êı */
+/* ç¨‹åº14-5 popenå’Œpcloseå‡½æ•° */
 #include <sys/wait.h>
 #include <errno.h>
 #include <limits.h>

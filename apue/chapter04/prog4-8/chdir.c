@@ -1,4 +1,4 @@
-/* ³ÌĞò4-8 chdirº¯ÊıÊµÀı */
+/* ç¨‹åº4-8 chdirå‡½æ•°å®ä¾‹ */
 #include <unistd.h>
 #include <stdio.h>
 

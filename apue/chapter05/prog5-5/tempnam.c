@@ -1,4 +1,4 @@
-/* ³ÌĞò5-5 tempnamº¯ÊıµÄÓ¦ÓÃ */
+/* ç¨‹åº5-5 tempnamå‡½æ•°çš„åº”ç”¨ */
 #include <stdio.h>
 
 int main(int argc, char *argv[])

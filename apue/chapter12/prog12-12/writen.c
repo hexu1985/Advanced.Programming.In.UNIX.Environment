@@ -1,4 +1,4 @@
-/* ³ÌĞò12-12 writenº¯Êı */
+/* ç¨‹åº12-12 writenå‡½æ•° */
 #include <unistd.h>
 #include <stdio.h>
 

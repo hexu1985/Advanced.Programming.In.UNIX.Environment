@@ -1,4 +1,4 @@
-/* ³ÌĞò15-15 mainº¯Êı */
+/* ç¨‹åº15-15 mainå‡½æ•° */
 #inlcude "opend.h"
 
 			/* define global variables */

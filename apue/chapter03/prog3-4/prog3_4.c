@@ -1,4 +1,4 @@
-/* 程序3-4 对于指定的描述符打印文件标志 */
+/* 绋嬪簭3-4 瀵逛簬鎸囧畾鐨勬弿杩扮鎵撳嵃鏂囦欢鏍囧織 */
 #include <sys/types.h>
 #include <fcntl.h>
 #include <unistd.h>

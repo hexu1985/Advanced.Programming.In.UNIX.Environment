@@ -1,4 +1,4 @@
-/* ³ÌĞò8-14 ÓÃsystemÖ´ĞĞÃüÁîĞĞ²ÎÊı */
+/* ç¨‹åº8-14 ç”¨systemæ‰§è¡Œå‘½ä»¤è¡Œå‚æ•° */
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>

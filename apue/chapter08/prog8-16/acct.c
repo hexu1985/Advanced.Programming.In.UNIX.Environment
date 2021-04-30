@@ -1,4 +1,4 @@
-/* ³ÌÐò8-16 ²úÉú»á¼ÆÊý¾ÝµÄ³ÌÐò */
+/* ç¨‹åº8-16 äº§ç”Ÿä¼šè®¡æ•°æ®çš„ç¨‹åº */
 #include <sys/types.h>
 #include <unistd.h>
 #include <signal.h>

@@ -1,4 +1,4 @@
-/* ³ÌĞò1-5 ´Ó±ê×¼ÊäÈë¶ÁÈ¡ÃüÁî²¢Ö´ĞĞ */
+/* ç¨‹åº1-5 ä»æ ‡å‡†è¾“å…¥è¯»å–å‘½ä»¤å¹¶æ‰§è¡Œ */
 #include <sys/types.h>
 #include <sys/wait.h>
 #include <unistd.h>
@@ -6,7 +6,7 @@
 
 #define	MAXLINE	4096
 
-static void sig_int(int);		/* ×Ô¶¨ÒåµÄĞÅºÅ²¶×½º¯Êı */
+static void sig_int(int);		/* è‡ªå®šä¹‰çš„ä¿¡å·æ•æ‰å‡½æ•° */
 
 int main(void)
 {
@@ -19,20 +19,20 @@ int main(void)
 		exit(1);
 	}
 
-	printf("%% ");	/* ´òÓ¡ÌáÊ¾·û% */
+	printf("%% ");	/* æ‰“å°æç¤ºç¬¦% */
 	while (fgets(buf, MAXLINE, stdin) != NULL) {
-		buf[strlen(buf)-1] = 0;		/* ½«'\n'Ìæ»»³É'\0' */
+		buf[strlen(buf)-1] = 0;		/* å°†'\n'æ›¿æ¢æˆ'\0' */
 
 		if ((pid=fork()) < 0) {
 			perror("fork error");
 			exit(1);
-		} else if (pid == 0) {	/* ×Ó½ø³Ì */
-			execlp(buf, buf, (char *) 0);	/* Èç¹ûÖ´ĞĞ³É¹¦£¬Ôò²»»á·µ»Ø£¬·ñÔò·µ»Ø-1 */
-			printf("%sÎŞ·¨Ö´ĞĞ\n", buf);
+		} else if (pid == 0) {	/* å­è¿›ç¨‹ */
+			execlp(buf, buf, (char *) 0);	/* å¦‚æœæ‰§è¡ŒæˆåŠŸï¼Œåˆ™ä¸ä¼šè¿”å›ï¼Œå¦åˆ™è¿”å›-1 */
+			printf("%sæ— æ³•æ‰§è¡Œ\n", buf);
 			exit(127);
 		}
 
-		/* ¸¸½ø³Ì */
+		/* çˆ¶è¿›ç¨‹ */
 		if ((pid=waitpid(pid, &status, 0)) < 0) {
 			fprintf(stderr, "waitpid error\n");
 			exit(1);

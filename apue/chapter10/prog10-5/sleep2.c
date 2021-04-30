@@ -1,4 +1,4 @@
-/* ³ÌĞò10-5 sleepÁíÒ»¸ö²»ÍêÉÆµÄÊµÏÖ */
+/* ç¨‹åº10-5 sleepå¦ä¸€ä¸ªä¸å®Œå–„çš„å®ç° */
 #include <setjmp.h>
 #include <signal.h>
 #include <unistd.h>

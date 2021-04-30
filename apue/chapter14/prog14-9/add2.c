@@ -1,4 +1,4 @@
-/* ³ÌÐò14-8 ¶ÔÁ½¸öÊýÇóºÍµÄ¼òµ¥¹ýÂË³ÌÐò */
+/* ç¨‹åº14-8 å¯¹ä¸¤ä¸ªæ•°æ±‚å’Œçš„ç®€å•è¿‡æ»¤ç¨‹åº */
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>

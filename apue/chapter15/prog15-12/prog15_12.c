@@ -1,4 +1,4 @@
-/* ³ÌĞò15-12 mainº¯Êı */
+/* ç¨‹åº15-12 mainå‡½æ•° */
 #include "open.h"
 #include <fcntl.h>
 

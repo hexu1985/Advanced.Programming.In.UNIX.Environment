@@ -1,4 +1,4 @@
-/* 程序1-4 打印进程ID */
+/* 绋嬪簭1-4 鎵撳嵃杩涚▼ID */
 #include <unistd.h>
 #include <stdio.h>
 

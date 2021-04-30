@@ -1,4 +1,4 @@
-/* ³ÌÐò10-1 ²¶×½SIGUSR1ºÍSIGUSR2µÄ¼òµ¥´¦Àí³ÌÐò */
+/* ç¨‹åº10-1 æ•æ‰SIGUSR1å’ŒSIGUSR2çš„ç®€å•å¤„ç†ç¨‹åº */
 #include <signal.h>
 #include <unistd.h>
 #include <stdio.h>

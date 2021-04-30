@@ -1,4 +1,4 @@
-/* 程序7-1 终止处理程序实例 */
+/* 绋嬪簭7-1 缁堟澶勭悊绋嬪簭瀹炰緥 */
 #include <stdlib.h>
 #include <stdio.h>
 #include <unistd.h>

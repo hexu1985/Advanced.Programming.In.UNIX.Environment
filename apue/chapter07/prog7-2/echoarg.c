@@ -1,4 +1,4 @@
-/* 程序7-2 将所有命令行参数回送到标准输出 */
+/* 绋嬪簭7-2 灏嗘墍鏈夊懡浠よ鍙傛暟鍥為�佸埌鏍囧噯杈撳嚭 */
 #include <stdio.h>
 
 int main(int argc, char *argv[])

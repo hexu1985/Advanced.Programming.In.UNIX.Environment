@@ -1,4 +1,4 @@
-/* ³ÌĞò10-21 sleepµÄ¿É¿¿ÊµÏÖ */
+/* ç¨‹åº10-21 sleepçš„å¯é å®ç° */
 #include <signal.h>
 #include <stddef.h>
 

@@ -1,4 +1,4 @@
-/* 程序1-2 将标准输入复制到标准输出 */
+/* 绋嬪簭1-2 灏嗘爣鍑嗚緭鍏ュ鍒跺埌鏍囧噯杈撳嚭 */
 #include <unistd.h>
 #include <stdio.h>
 

@@ -1,4 +1,4 @@
-/* 程序10-20 system函数的POSIX.2实现 */
+/* 绋嬪簭10-20 system鍑芥暟鐨凱OSIX.2瀹炵幇 */
 #include <signal.h>
 #include <sys/types.h>
 #include <sys/wait.h>

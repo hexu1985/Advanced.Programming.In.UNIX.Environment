@@ -1,4 +1,4 @@
-/* ³ÌĞò4-10 ´òÓ¡st_devºÍst_rdevÖµ */
+/* ç¨‹åº4-10 æ‰“å°st_devå’Œst_rdevå€¼ */
 #include <sys/sysmacros.h> 
 #include <sys/stat.h>
 #include <unistd.h>

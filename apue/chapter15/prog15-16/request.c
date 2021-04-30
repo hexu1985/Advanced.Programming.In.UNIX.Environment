@@ -1,4 +1,4 @@
-/* ³ÌĞò15-16 requestº¯Êı */
+/* ç¨‹åº15-16 requestå‡½æ•° */
 #include "opend.h"
 #include <fcntl.h>
 

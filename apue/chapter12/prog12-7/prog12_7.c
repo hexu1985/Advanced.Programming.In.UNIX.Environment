@@ -1,4 +1,4 @@
-/* 程序12-7  确定是否支持强制性锁 */
+/* 绋嬪簭12-7  纭畾鏄惁鏀寔寮哄埗鎬ч攣 */
 #include <sys/types.h>
 #include <sys/stat.h>
 #include <sys/wait.h>

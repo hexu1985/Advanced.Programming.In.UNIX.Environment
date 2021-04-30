@@ -1,4 +1,4 @@
-/* 程序5-4 tmpnam和tmpfile函数实例 */
+/* 绋嬪簭5-4 tmpnam鍜宼mpfile鍑芥暟瀹炰緥 */
 #include <stdio.h>
 
 #define	MAXLINE	4096

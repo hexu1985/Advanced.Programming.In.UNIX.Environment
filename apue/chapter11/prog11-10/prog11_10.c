@@ -1,4 +1,4 @@
-/* 程序11-10 将终端方式设置为原始或cbreak方式 */
+/* 绋嬪簭11-10 灏嗙粓绔柟寮忚缃负鍘熷鎴朿break鏂瑰紡 */
 #include <termios.h>
 #include <unistd.h>
 

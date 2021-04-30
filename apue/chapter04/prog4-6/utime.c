@@ -1,4 +1,4 @@
-/* ³ÌĞò4-6 utimeº¯ÊıÊµÀı */
+/* ç¨‹åº4-6 utimeå‡½æ•°å®ä¾‹ */
 #include <sys/types.h>
 #include <sys/stat.h>
 #include <fcntl.h>

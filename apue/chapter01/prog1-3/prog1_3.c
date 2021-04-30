@@ -1,4 +1,4 @@
-/* 程序1-3 用标准I/O将标准输入复制到标准输出 */
+/* 绋嬪簭1-3 鐢ㄦ爣鍑咺/O灏嗘爣鍑嗚緭鍏ュ鍒跺埌鏍囧噯杈撳嚭 */
 #include <unistd.h>
 #include <stdio.h>
 
@@ -10,10 +10,10 @@ int main(void)
 
 	while ((c=getc(stdin)) != EOF)
 		if (putc(c, stdout) == EOF) 
-			err_sys("输出错误!", 1);			
+			err_sys("杈撳嚭閿欒!", 1);			
 
 	if (ferror(stdin))
-		err_sys("输入错误!", 2);
+		err_sys("杈撳叆閿欒!", 2);
 
 	exit(0);
 }

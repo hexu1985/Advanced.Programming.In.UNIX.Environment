@@ -1,4 +1,4 @@
-/* ³ÌÐò7-5 longjmp¶Ô×Ô¶¯£¬¼Ä´æÆ÷ºÍÒ×Ê§±äÁ¿µÄÓ°Ïì */
+/* ç¨‹åº7-5 longjmpå¯¹è‡ªåŠ¨ï¼Œå¯„å­˜å™¨å’Œæ˜“å¤±å˜é‡çš„å½±å“ */
 #include <setjmp.h>
 #include <stdio.h>
 

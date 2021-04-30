@@ -1,4 +1,4 @@
-/* 程序8-6 具有竞态条件的程序 */
+/* 绋嬪簭8-6 鍏锋湁绔炴�佹潯浠剁殑绋嬪簭 */
 #include <sys/types.h>
 #include <unistd.h>
 #include <stdio.h>

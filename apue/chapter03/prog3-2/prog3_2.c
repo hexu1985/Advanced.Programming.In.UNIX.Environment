@@ -1,4 +1,4 @@
-/* 程序3-2 创建一个具有空洞的文件 */
+/* 绋嬪簭3-2 鍒涘缓涓�涓叿鏈夌┖娲炵殑鏂囦欢 */
 #include <sys/types.h>
 #include <sys/stat.h>
 #include <fcntl.h>

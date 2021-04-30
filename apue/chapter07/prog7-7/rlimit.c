@@ -1,4 +1,4 @@
-/* 程序7-7 打印当前资源限制 */
+/* 绋嬪簭7-7 鎵撳嵃褰撳墠璧勬簮闄愬埗 */
 #include <sys/types.h>
 #include <sys/time.h>
 #include <sys/resource.h>

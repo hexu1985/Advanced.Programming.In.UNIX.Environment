@@ -1,4 +1,4 @@
-/* 程序10-11 信号设置和sigprocmask实例 */
+/* 绋嬪簭10-11 淇″彿璁剧疆鍜宻igprocmask瀹炰緥 */
 #include <signal.h>
 #include <unistd.h>
 #include <stdio.h>

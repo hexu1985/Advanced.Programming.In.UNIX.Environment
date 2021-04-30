@@ -1,4 +1,4 @@
-/* 程序8-3 打印exit状态的说明 */
+/* 绋嬪簭8-3 鎵撳嵃exit鐘舵�佺殑璇存槑 */
 #include <sys/types.h>
 #include <sys/wait.h>
 #include <unistd.h>

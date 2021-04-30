@@ -1,4 +1,4 @@
-/* 程序11-12 打印窗口大小 */
+/* 绋嬪簭11-12 鎵撳嵃绐楀彛澶у皬 */
 #include <signal.h>
 #include <termios.h>
 #ifndef TIOCGWINSZ

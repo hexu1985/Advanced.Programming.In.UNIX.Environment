@@ -1,4 +1,4 @@
-/* ³ÌĞò4-2 accessº¯ÊıÊµÀı */
+/* ç¨‹åº4-2 accesså‡½æ•°å®ä¾‹ */
 #include <sys/types.h>
 #include <fcntl.h>
 #include <unistd.h>

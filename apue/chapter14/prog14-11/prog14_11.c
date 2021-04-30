@@ -1,4 +1,4 @@
-/* ³ÌÐò14-11 ´òÓ¡²»Í¬ÀàÐÍµÄÊý¾ÝËù´æ·ÅµÄÎ»ÖÃ */
+/* ç¨‹åº14-11 æ‰“å°ä¸åŒç±»åž‹çš„æ•°æ®æ‰€å­˜æ”¾çš„ä½ç½® */
 #include <sys/types.h>
 #include <sys/ipc.h>
 #include <sys/shm.h>

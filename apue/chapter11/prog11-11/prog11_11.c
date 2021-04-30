@@ -1,4 +1,4 @@
-/* 程序11-11 测试原始和cbreak工作方式 */
+/* 绋嬪簭11-11 娴嬭瘯鍘熷鍜宑break宸ヤ綔鏂瑰紡 */
 #include <signal.h>
 #include <unistd.h>
 #include <stdio.h>

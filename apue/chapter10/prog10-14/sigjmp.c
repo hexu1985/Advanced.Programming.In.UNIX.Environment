@@ -1,4 +1,4 @@
-/* 程序10-14 信号屏蔽、sigsetjmp和siglongjmp实例 */
+/* 绋嬪簭10-14 淇″彿灞忚斀銆乻igsetjmp鍜宻iglongjmp瀹炰緥 */
 #include <errno.h>
 #include <signal.h>
 #include <setjmp.h>

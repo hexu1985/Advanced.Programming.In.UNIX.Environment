@@ -1,4 +1,4 @@
-/* ³ÌĞò10-9 sigaddset¡¢sigdelsetºÍsigismemberµÄÊµÏÖ */
+/* ç¨‹åº10-9 sigaddsetã€sigdelsetå’Œsigismemberçš„å®ç° */
 #include <signal.h>
 #include <errno.h>
 

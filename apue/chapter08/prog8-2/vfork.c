@@ -1,4 +1,4 @@
-/* ³ÌĞò8-2 vforkº¯ÊıÊµÀı */
+/* ç¨‹åº8-2 vforkå‡½æ•°å®ä¾‹ */
 #include <sys/types.h>
 #include <unistd.h>
 #include <stdio.h>

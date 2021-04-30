@@ -1,4 +1,4 @@
-/* ³ÌĞò11-8 getpassº¯ÊıµÄÊµÏÖ */
+/* ç¨‹åº11-8 getpasså‡½æ•°çš„å®ç° */
 #include <signal.h>
 #include <stdio.h>
 #include <termios.h>

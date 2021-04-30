@@ -1,4 +1,4 @@
-/* ³ÌÐò8-18 Ê±¼äÒÔ¼°Ö´ÐÐÃüÁîÐÐ²ÎÊý */
+/* ç¨‹åº8-18 æ—¶é—´ä»¥åŠæ‰§è¡Œå‘½ä»¤è¡Œå‚æ•° */
 #include <sys/times.h>
 #include <sys/types.h>
 #include <unistd.h>

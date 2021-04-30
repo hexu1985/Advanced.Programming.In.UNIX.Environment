@@ -1,4 +1,4 @@
-/* ³ÌÐò12-5 ¾«Áé½ø³Ì×èÖ¹¶à·Ý¸±±¾Í¬Ê±ÔËÐÐµÄÆô¶¯´úÂë */
+/* ç¨‹åº12-5 ç²¾çµè¿›ç¨‹é˜»æ­¢å¤šä»½å‰¯æœ¬åŒæ—¶è¿è¡Œçš„å¯åŠ¨ä»£ç  */
 #include <sys/types.h>
 #include <sys/stat.h>
 #include <errno.h>

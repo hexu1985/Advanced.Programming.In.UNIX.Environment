@@ -1,4 +1,4 @@
-/* ³ÌĞò4-3 unmaskº¯ÊıÊµÀı */
+/* ç¨‹åº4-3 unmaskå‡½æ•°å®ä¾‹ */
 #include <sys/types.h>
 #include <sys/stat.h>
 #include <fcntl.h>

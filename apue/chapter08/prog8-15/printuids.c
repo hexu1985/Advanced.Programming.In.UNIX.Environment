@@ -1,4 +1,4 @@
-/* 程序8-15 打印实际和有效用户ID */
+/* 绋嬪簭8-15 鎵撳嵃瀹為檯鍜屾湁鏁堢敤鎴稩D */
 #include <sys/types.h>
 #include <unistd.h>
 #include <stdio.h>

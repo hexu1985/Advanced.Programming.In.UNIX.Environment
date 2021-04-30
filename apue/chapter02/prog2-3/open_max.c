@@ -1,4 +1,4 @@
-/* 程序2-3 确定文件描述符数 */
+/* 绋嬪簭2-3 纭畾鏂囦欢鎻忚堪绗︽暟 */
 #include <errno.h>
 #include <limits.h>
 #include <unistd.h>

@@ -1,4 +1,4 @@
-/* 程序10-12 用sigaction所实现的signal函数 */
+/* 绋嬪簭10-12 鐢╯igaction鎵�瀹炵幇鐨剆ignal鍑芥暟 */
 /* Reliable version fo signal(), using POSIX sigaction(). */
 #include <signal.h>
 #include <unistd.h>

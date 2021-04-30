@@ -1,4 +1,4 @@
-/* ³ÌĞò8-8 execº¯ÊıÊµÀı */
+/* ç¨‹åº8-8 execå‡½æ•°å®ä¾‹ */
 #include <sys/types.h>
 #include <sys/wait.h>
 #include <unistd.h>

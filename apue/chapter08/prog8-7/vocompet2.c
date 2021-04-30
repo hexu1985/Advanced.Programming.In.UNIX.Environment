@@ -1,4 +1,4 @@
-/* ����8-7 �޸ĳ���8-6�Ա��⾺̬���� */
+/* 程序8-7 修改程序8-6以避免竞态条件 */
 #include <sys/types.h>
 #include <signal.h>
 #include <unistd.h>

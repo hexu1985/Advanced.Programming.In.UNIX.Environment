@@ -1,4 +1,4 @@
-/* ³ÌĞò4-4 chmodº¯ÊıÊµÀı */
+/* ç¨‹åº4-4 chmodå‡½æ•°å®ä¾‹ */
 #include <sys/types.h>
 #include <sys/stat.h>
 #include <unistd.h> 

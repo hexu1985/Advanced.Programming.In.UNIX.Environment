@@ -1,4 +1,4 @@
-/* 程序12-10 打印流中的模块名 */
+/* 绋嬪簭12-10 鎵撳嵃娴佷腑鐨勬ā鍧楀悕 */
 #include <sys/conf.h>
 #include <sys/types.h>
 #include <fcntl.h>

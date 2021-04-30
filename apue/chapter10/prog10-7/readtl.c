@@ -1,4 +1,4 @@
-/* 程序10-7 带时间限制调用read */
+/* 绋嬪簭10-7 甯︽椂闂撮檺鍒惰皟鐢╮ead */
 #include <setjmp.h>
 #include <signal.h>
 #include <unistd.h>

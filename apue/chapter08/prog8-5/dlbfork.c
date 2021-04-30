@@ -1,4 +1,4 @@
-/* ³ÌÐò8-5 forkÁ½´ÎÒÔ±ÜÃâ½©ËÀ½ø³Ì */
+/* ç¨‹åº8-5 forkä¸¤æ¬¡ä»¥é¿å…åƒµæ­»è¿›ç¨‹ */
 #include <sys/types.h>
 #include <sys/wait.h>
 #include <unistd.h>

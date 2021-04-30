@@ -1,4 +1,4 @@
-/* ³ÌĞò12-13 readnº¯Êı */
+/* ç¨‹åº12-13 readnå‡½æ•° */
 #include <unistd.h>
 #include <stdio.h>
 

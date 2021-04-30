@@ -1,4 +1,4 @@
-/* ³ÌĞò4-9 getcwdº¯ÊıÊµÀı */
+/* ç¨‹åº4-9 getcwdå‡½æ•°å®ä¾‹ */
 #include <errno.h>
 #include <unistd.h>
 #include <limits.h>

@@ -1,4 +1,4 @@
-/* 程序10-17 父子进程可用来实现同步的例程 */
+/* 绋嬪簭10-17 鐖跺瓙杩涚▼鍙敤鏉ュ疄鐜板悓姝ョ殑渚嬬▼ */
 #include <signal.h>
 #include <unistd.h>
 #include <stdio.h>

@@ -1,4 +1,4 @@
-/* ³ÌĞò15-10 4.3BSD RenoµÄrecv_fdº¯Êı */
+/* ç¨‹åº15-10 4.3BSD Renoçš„recv_fdå‡½æ•° */
 #include <sys/types.h>
 #include <sys/socket.h>		/* struct msghdr */
 #include <sys/uio.h>		/* struct iovec */

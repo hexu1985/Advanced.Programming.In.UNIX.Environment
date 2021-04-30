@@ -1,4 +1,4 @@
-/* 程序10-18 abort的POSIX.1实现 */
+/* 绋嬪簭10-18 abort鐨凱OSIX.1瀹炵幇 */
 #include <sys/signal.h>
 #include <stdio.h>
 #include <stdlib.h>

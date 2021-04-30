@@ -1,4 +1,4 @@
-/* ³ÌĞò14-9 Çı¶¯add2¹ıÂË³ÌĞòµÄ³ÌĞò */
+/* ç¨‹åº14-9 é©±åŠ¨add2è¿‡æ»¤ç¨‹åºçš„ç¨‹åº */
 #include <sys/types.h>
 #include <sys/socket.h>
 #include <signal.h>

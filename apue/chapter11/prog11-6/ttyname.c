@@ -1,4 +1,4 @@
-/* ³ÌĞò11-6 POSIX.1 ttynameº¯ÊıµÄÊµÏÖ */
+/* ç¨‹åº11-6 POSIX.1 ttynameå‡½æ•°çš„å®ç° */
 #include <sys/types.h>
 #include <sys/stat.h>
 #include <dirent.h>

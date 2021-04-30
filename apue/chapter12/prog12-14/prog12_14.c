@@ -1,4 +1,4 @@
-/* 函数12-14 用存储映射I/O复制文件 */
+/* 鍑芥暟12-14 鐢ㄥ瓨鍌ㄦ槧灏処/O澶嶅埗鏂囦欢 */
 #include <sys/types.h>
 #include <sys/stat.h>
 #include <sys/mman.h>		/* mmap() */

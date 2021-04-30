@@ -1,4 +1,4 @@
-/* ³ÌÐò14-4 ÓÃpopenÏò·ÖÒ³³ÌÐò´«ËÍÎÄ¼þ */
+/* ç¨‹åº14-4 ç”¨popenå‘åˆ†é¡µç¨‹åºä¼ é€æ–‡ä»¶ */
 #include <sys/wait.h>
 #include <unistd.h>
 #include <stdio.h>

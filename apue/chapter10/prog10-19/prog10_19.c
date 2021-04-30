@@ -1,4 +1,4 @@
-/* 程序10-19 用system调用ed编辑程序 */
+/* 绋嬪簭10-19 鐢╯ystem璋冪敤ed缂栬緫绋嬪簭 */
 #include <sys/types.h>
 #include <sys/wait.h>
 #include <signal.h>

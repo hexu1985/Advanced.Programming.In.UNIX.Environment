@@ -1,4 +1,4 @@
-/* 程序10-2 在信号处理程序中调用不可再入函数 */
+/* 绋嬪簭10-2 鍦ㄤ俊鍙峰鐞嗙▼搴忎腑璋冪敤涓嶅彲鍐嶅叆鍑芥暟 */
 #include <pwd.h>
 #include <signal.h>
 #include <unistd.h>

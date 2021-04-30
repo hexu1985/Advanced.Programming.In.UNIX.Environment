@@ -1,4 +1,4 @@
-/* 程序10-6 在一个捕捉其他信号的程序中调用sleep2 */
+/* 绋嬪簭10-6 鍦ㄤ竴涓崟鎹夊叾浠栦俊鍙风殑绋嬪簭涓皟鐢╯leep2 */
 #include <signal.h>
 #include <unistd.h>
 #include <stdio.h>

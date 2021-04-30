@@ -1,4 +1,4 @@
-/* ³ÌÐò14-3 Ê¹¸¸¡¢×Ó½ø³ÌÍ¬²½µÄÀý³Ì */
+/* ç¨‹åº14-3 ä½¿çˆ¶ã€å­è¿›ç¨‹åŒæ­¥çš„ä¾‹ç¨‹ */
 #include <unistd.h>
 #include <stdio.h>
 

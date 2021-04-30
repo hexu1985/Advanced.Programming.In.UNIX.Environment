@@ -1,4 +1,4 @@
-/* 程序3-1 测试标准输入能否被设置位移量 */
+/* 绋嬪簭3-1 娴嬭瘯鏍囧噯杈撳叆鑳藉惁琚缃綅绉婚噺 */
 #include <sys/types.h>
 #include <sys/stat.h>
 #include <fcntl.h>

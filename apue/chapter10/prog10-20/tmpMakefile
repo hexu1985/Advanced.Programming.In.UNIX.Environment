@@ -1,4 +1,4 @@
-# 一个基本的Makefile
+# 涓�涓熀鏈殑Makefile
 
 CC = gcc
 CFLAGS = -Wall -std=c89

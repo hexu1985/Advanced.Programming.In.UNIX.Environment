@@ -1,4 +1,4 @@
-/* ³ÌĞò14-12 ÔÚ¸¸¡¢×Ó½ø³Ì¼äÊ¹ÓÃ/dev/zero´æ´¢Ó³ÉäI/OµÄIPC */
+/* ç¨‹åº14-12 åœ¨çˆ¶ã€å­è¿›ç¨‹é—´ä½¿ç”¨/dev/zeroå­˜å‚¨æ˜ å°„I/Oçš„IPC */
 #include <sys/types.h>
 #include <sys/mman.h>
 #include <fcntl.h>

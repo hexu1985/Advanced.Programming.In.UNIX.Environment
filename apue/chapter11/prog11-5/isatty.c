@@ -1,4 +1,4 @@
-/* ³ÌĞò11-4 POSIX.1 isattyº¯ÊıµÄÊµÏÖ */
+/* ç¨‹åº11-4 POSIX.1 isattyå‡½æ•°çš„å®ç° */
 #include <termios.h>
 #include <unistd.h>
 #include <stdio.h>

@@ -1,4 +1,4 @@
-/* 程序8-13 调用system函数 */
+/* 绋嬪簭8-13 璋冪敤system鍑芥暟 */
 #include <sys/types.h>
 #include <sys/wait.h>
 #include <unistd.h>

@@ -1,4 +1,4 @@
-/* ³ÌĞò4-5 ´ò¿ªÒ»¸öÎÄ¼ş£¬È»ºóunlinkËü */
+/* ç¨‹åº4-5 æ‰“å¼€ä¸€ä¸ªæ–‡ä»¶ï¼Œç„¶åunlinkå®ƒ */
 #include <sys/types.h>
 #include <sys/stat.h>
 #include <fcntl.h>

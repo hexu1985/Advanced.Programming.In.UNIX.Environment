@@ -1,4 +1,4 @@
-/* ³ÌĞò15-6 SVR4µÄrecv_fdº¯Êı */
+/* ç¨‹åº15-6 SVR4çš„recv_fdå‡½æ•° */
 #include <sys/types.h>
 #include <stropts.h>
 #include <unistd.h>

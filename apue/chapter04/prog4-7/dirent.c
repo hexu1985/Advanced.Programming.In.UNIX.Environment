@@ -1,4 +1,4 @@
-/* ����4-7 �ݹ齵�����Ŀ¼��νṹ, ���ļ����ͼ��� */
+/* 程序4-7 递归降序遍历目录层次结构, 按文件类型计数 */
 #include <sys/types.h>
 #include <sys/stat.h>
 #include <dirent.h>

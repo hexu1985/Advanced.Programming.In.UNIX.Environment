@@ -1,4 +1,4 @@
-/* 程序12-2 加锁和解锁一个文件区域的函数 */
+/* 绋嬪簭12-2 鍔犻攣鍜岃В閿佷竴涓枃浠跺尯鍩熺殑鍑芥暟 */
 #include <sys/types.h>
 #include <fcntl.h>
 #include <unistd.h>

@@ -1,4 +1,4 @@
-/* ³ÌÐò10-15 ±£»¤ÁÙ½çÇø²»±»ÐÅºÅÖÐ¶Ï */
+/* ç¨‹åº10-15 ä¿æŠ¤ä¸´ç•ŒåŒºä¸è¢«ä¿¡å·ä¸­æ–­ */
 #include <errno.h>
 #include <signal.h>
 #include <unistd.h>

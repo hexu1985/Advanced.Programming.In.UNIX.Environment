@@ -1,4 +1,4 @@
-/* ³ÌĞò15-7 4.3BSDµÄsend_fdº¯Êı */
+/* ç¨‹åº15-7 4.3BSDçš„send_fdå‡½æ•° */
 #include <sys/types.h>
 #include <sys/socket.h>		/* struct msghdr */
 #include <sys/uio.h>		/* struct iovec */

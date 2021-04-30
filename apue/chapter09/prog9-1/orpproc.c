@@ -1,4 +1,4 @@
-/* 程序9-1 创建一个孤儿进程组 */
+/* 绋嬪簭9-1 鍒涘缓涓�涓鍎胯繘绋嬬粍 */
 #include <sys/types.h>
 #include <errno.h>
 #include <fcntl.h>

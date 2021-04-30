@@ -1,4 +1,4 @@
-/* ³ÌĞò15-4 send_errº¯Êı */
+/* ç¨‹åº15-4 send_errå‡½æ•° */
 #include <unistd.h>
 #include <stdio.h>
 #include <stdlib.h>

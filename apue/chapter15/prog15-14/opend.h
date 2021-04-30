@@ -1,4 +1,4 @@
-/* ³ÌĞò15-14 opend.hÍ·ÎÄ¼ş */
+/* ç¨‹åº15-14 opend.hå¤´æ–‡ä»¶ */
 #include <sys/types.h>
 #include <errno.h>
 #include <unistd.h>

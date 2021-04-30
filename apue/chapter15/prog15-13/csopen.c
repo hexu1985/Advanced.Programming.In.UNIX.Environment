@@ -1,4 +1,4 @@
-/* ³ÌĞò15-13 csopenº¯Êı */
+/* ç¨‹åº15-13 csopenå‡½æ•° */
 #include "open.h"
 #Include <sys/uio.h>		/* struct iovec */
 

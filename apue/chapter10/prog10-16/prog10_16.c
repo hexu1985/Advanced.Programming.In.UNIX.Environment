@@ -1,4 +1,4 @@
-/* ³ÌĞò10-16 ÓÃsigsuspendµÈ´ıÒ»¸öÈ«¾Ö±äÁ¿±»ÉèÖÃ */
+/* ç¨‹åº10-16 ç”¨sigsuspendç­‰å¾…ä¸€ä¸ªå…¨å±€å˜é‡è¢«è®¾ç½® */
 #include <errno.h>
 #include <signal.h>
 #include <unistd.h>

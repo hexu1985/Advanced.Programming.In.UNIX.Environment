@@ -1,4 +1,4 @@
-/* ³ÌĞò12-4 ËÀËø¼ì²âÊµÀı */
+/* ç¨‹åº12-4 æ­»é”æ£€æµ‹å®ä¾‹ */
 #include <sys/types.h>
 #include <sys/stat.h>
 #include <signal.h>

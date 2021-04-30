@@ -1,4 +1,4 @@
-/* 程序10-3 不能正常工作的系统V SIGCLD处理程序 */
+/* 绋嬪簭10-3 涓嶈兘姝ｅ父宸ヤ綔鐨勭郴缁烿 SIGCLD澶勭悊绋嬪簭 */
 #include <sys/types.h>
 #include <signal.h>
 #include <stdio.h>

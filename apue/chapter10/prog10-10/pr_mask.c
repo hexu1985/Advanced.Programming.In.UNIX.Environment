@@ -1,4 +1,4 @@
-/* 程序10-10 为进程打印信号屏蔽字 */
+/* 绋嬪簭10-10 涓鸿繘绋嬫墦鍗颁俊鍙峰睆钄藉瓧 */
 #include <errno.h>
 #include <signal.h>
 #include <unistd.h>

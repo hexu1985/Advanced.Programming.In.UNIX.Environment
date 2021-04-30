@@ -1,4 +1,4 @@
-/* DEBUG的新途径 */
+/* DEBUG鐨勬柊閫斿緞 */
 
 #include <unistd.h>
 #include <stdio.h>
@@ -11,7 +11,7 @@ int main()
 	if ((pstr = getenv("DEBUGON")) == NULL)
 		;
 	else
-		printf("这是打日志的语句!\n");
+		printf("杩欐槸鎵撴棩蹇楃殑璇彞!\n");
 
 	return;
 }

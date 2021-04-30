@@ -1,4 +1,4 @@
-/* ����5-3 �Ը�����׼I/O����ӡ����״̬��Ϣ */
+/* 程序5-3 对各个标准I/O流打印缓存状态信息 */
 #include <stdio.h>
 
 void pr_stdio(const char *, FILE *);

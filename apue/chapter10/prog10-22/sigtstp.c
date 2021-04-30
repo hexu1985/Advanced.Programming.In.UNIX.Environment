@@ -1,4 +1,4 @@
-/* 程序10-22 如何处理SIGTSTP */
+/* 绋嬪簭10-22 濡備綍澶勭悊SIGTSTP */
 #include <signal.h>
 #include <unistd.h>
 #include <stdio.h>

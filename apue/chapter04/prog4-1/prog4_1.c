@@ -1,4 +1,4 @@
-/* 程序4-1 对每个命令行参数打印文件类型 */
+/* 绋嬪簭4-1 瀵规瘡涓懡浠よ鍙傛暟鎵撳嵃鏂囦欢绫诲瀷 */
 #include <sys/types.h>
 #include <sys/stat.h>
 #include <unistd.h>

@@ -1,4 +1,4 @@
-/* ³ÌĞò8-12 systemº¯Êı(Ã»ÓĞ¶ÔĞÅºÅ½øĞĞ´¦Àí) */
+/* ç¨‹åº8-12 systemå‡½æ•°(æ²¡æœ‰å¯¹ä¿¡å·è¿›è¡Œå¤„ç†) */
 #include <sys/types.h>
 #include <sys/wait.h>
 #include <errno.h>

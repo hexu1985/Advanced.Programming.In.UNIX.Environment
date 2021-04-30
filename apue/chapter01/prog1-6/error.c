@@ -1,4 +1,4 @@
-/* ³ÌĞò1-6 ÀıÊ¾strerrorºÍperror */
+/* ç¨‹åº1-6 ä¾‹ç¤ºstrerrorå’Œperror */
 #include <errno.h>
 #include <unistd.h>
 #include <stdio.h>

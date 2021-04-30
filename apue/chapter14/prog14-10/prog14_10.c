@@ -1,4 +1,4 @@
-/* 程序14-10 对两个数求和的滤波程序，使用标准I/O */
+/* 绋嬪簭14-10 瀵逛袱涓暟姹傚拰鐨勬护娉㈢▼搴忥紝浣跨敤鏍囧噯I/O */
 #include <unistd.h>
 #include <stdio.h>
 #include <stdlib.h>

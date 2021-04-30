@@ -1,4 +1,4 @@
-/* ³ÌÐò12-3 ²âÊÔÒ»¸öËøÌõ¼þµÄº¯Êý */
+/* ç¨‹åº12-3 æµ‹è¯•ä¸€ä¸ªé”æ¡ä»¶çš„å‡½æ•° */
 #include <sys/types.h>
 #include <fcntl.h>
 #include <unistd.h>

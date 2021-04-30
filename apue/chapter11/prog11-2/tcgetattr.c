@@ -1,4 +1,4 @@
-/* ³ÌĞò11-2 tcgetattrÊµÀı */
+/* ç¨‹åº11-2 tcgetattrå®ä¾‹ */
 #include <termios.h>
 #include <unistd.h>
 #include <stdio.h>

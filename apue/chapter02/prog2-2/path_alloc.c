@@ -1,4 +1,4 @@
-/* 程序2-2 为路径名动态地分配空间 */
+/* 绋嬪簭2-2 涓鸿矾寰勫悕鍔ㄦ�佸湴鍒嗛厤绌洪棿 */
 #include <errno.h>
 #include <limits.h>
 #include <unistd.h>

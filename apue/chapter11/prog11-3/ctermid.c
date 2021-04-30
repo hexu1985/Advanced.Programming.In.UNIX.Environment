@@ -1,4 +1,4 @@
-/* ³ÌĞò11-3 POSIX.1 ctermidº¯ÊıµÄÊµÏÖ */
+/* ç¨‹åº11-3 POSIX.1 ctermidå‡½æ•°çš„å®ç° */
 #include <stdio.h>
 #include <string.h>
 

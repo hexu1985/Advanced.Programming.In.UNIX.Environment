@@ -1,4 +1,4 @@
-/* ³ÌÐò8-10 Ö´ÐÐÒ»¸ö½âÊÍÆ÷ÎÄ¼þµÄ³ÌÐò */
+/* ç¨‹åº8-10 æ‰§è¡Œä¸€ä¸ªè§£é‡Šå™¨æ–‡ä»¶çš„ç¨‹åº */
 #include <sys/types.h>
 #include <sys/wait.h>
 #include <unistd.h>
